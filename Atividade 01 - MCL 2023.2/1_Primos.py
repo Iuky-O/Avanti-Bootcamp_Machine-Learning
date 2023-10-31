@@ -29,5 +29,5 @@ def acha_primos(Primos, Numeros):
           
     return Primos
 
-print(f"Numeros primos até {Numeros}:")
+print(f"Numeros primos < {Numeros}:")
 print(acha_primos(Primos, Numeros))
